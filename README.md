@@ -1,0 +1,2 @@
+# Spaint-InfiniTAM
+semantic painting
